@@ -1,38 +1,38 @@
 [
     { 
-        "image": ".../kepek/haromszog.png",
+        "image": "../kepek/haromszog.png",
         "name": "haromszog"
     },
     { 
-        "image": ".../kepek/hatszog.png",
+        "image": "../kepek/hatszog.png",
         "name": "hatszog"
     },
     { 
-        "image": ".../kepek/kor.png",
+        "image": "../kepek/kor.png",
         "name": "kor"
     },
     { 
-        "image": ".../kepek/negyzet.png",
+        "image": "../kepek/negyzet.png",
         "name": "negyzet"
     },
     { 
-        "image": ".../kepek/otszog.png",
+        "image": "../kepek/otszog.png",
         "name": "otszog"
     },
     { 
-        "image": ".../kepek/ovalis1.png",
+        "image": "../kepek/ovalis1.png",
         "name": "ovalis1"
     },
     { 
-        "image": ".../kepek/ovalis2.png",
+        "image": "../kepek/ovalis2.png",
         "name": "ovalis2"
     },
     { 
-        "image": ".../kepek/sziv.png",
+        "image": "../kepek/sziv.png",
         "name": "sziv"
     },
     { 
-        "image": ".../kepek/teglalap.png",
+        "image": "../kepek/teglalap.png",
         "name": "teglalap"
     }
 
